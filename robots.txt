@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casino-de-saint-galmier.com/
+Sitemap: https://casino-de-saint-galmier.com/sitemap.xml
